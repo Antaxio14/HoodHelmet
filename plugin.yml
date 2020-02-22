@@ -1,0 +1,6 @@
+name: HoodHelmet
+version: "1.0.0"
+main: antaxio\HoodHelmet\Main
+description: "helmet"
+author: antaxio
+api: ["3.0.0","3.0.2","4.0.0"]
